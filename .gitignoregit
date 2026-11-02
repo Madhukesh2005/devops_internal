@@ -1,0 +1,1 @@
+target/  initgit add .git commit -m "Add Selenium TestNG Docker and K8s pipeline"git branch -M maingit remote add origin https://github.com/Madhukesh2005/devops-internal.gitgit push -u origin main
